@@ -6,7 +6,7 @@
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/cookbook-template/main?labpath=notebooks)
 [![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
 
-This Project Pythia Cookbook covers an extremely basic precipitation classification project. This notebook will introduce learners to 
+This Project Pythia Cookbook covers an extremely basic precipitation classification project. This notebook will introduce learners to the scikit-learn API, basic exploratory data analysis (EDA), and evaluations. It is meant to be a very early and basic introduction to these concepts, it is not meant to be an in-depth intorduction to machine learning. It could be the first introduction to machine learning for learners familiar with weather data. 
 
 ## Motivation
 
