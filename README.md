@@ -14,7 +14,7 @@ This cookbook is meant to be a companion to Unidata's CyberTraining project.
 
 ## Authors
 
-[First Author](@first-author), [Second Author](@second-author), etc. _Acknowledge primary content authors here_
+[First Author](@anacmontoya), [Second Author](@ThomasMGeo)
 
 ### Contributors
 
