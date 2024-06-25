@@ -5,3 +5,9 @@ dependencies:
   - jupyter-book
   - jupyterlab
   - sphinx-pythia-theme
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - pyarrow
+  - scikit-learn
