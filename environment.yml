@@ -11,3 +11,4 @@ dependencies:
   - seaborn
   - pyarrow
   - scikit-learn
+  - fastparquet
