@@ -19,7 +19,7 @@ This cookbook is meant to be a companion to Unidata's CyberTraining project.
 ### Contributors
 
 <a href="https://github.com/ThomasMGeo/ptype-ml-cookbook/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ProjectPythia/cookbook-template" />
+  <img src="https://contrib.rocks/image?repo=ProjectPythia/ptype-ml-cookbook" />
 </a>
 
 ## Structure
