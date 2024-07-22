@@ -14,7 +14,7 @@ This cookbook is meant to be a companion to Unidata's CyberTraining project.
 
 ## Authors
 
-[Ana Castaneda Montoya](@anacmontoya), [Thomas Martin](@ThomasMGeo)
+[Ana Castaneda Montoya](https://github.com/anacmontoya), [Thomas Martin](https://github.com/ThomasMGeo)
 
 ### Contributors
 
@@ -24,15 +24,23 @@ This cookbook is meant to be a companion to Unidata's CyberTraining project.
 
 ## Structure
 
-(State one or more sections that will comprise the notebook. E.g., _This cookbook is broken up into two main sections - "Foundations" and "Example Workflows."_ Then, describe each section below.)
+This notebook has a few sections, from inital data loading to 
 
-### Section 1 ( Replace with the title of this section, e.g. "Foundations" )
+### Exploratory Data Analysis
 
-(Add content for this section, e.g., "The foundational content includes ... ")
+This section gives some nice examples of pair plots in Seaborn, and Correlation Matricies. 
 
-### Section 2 ( Replace with the title of this section, e.g. "Example workflows" )
+### Dataset Splitting
 
-(Add content for this section, e.g., "Example workflows include ... ")
+For machine learning, we need a testing, training, and validation dataset. This section covers how to do that, and gives some great refrences on the why. 
+
+### Dataset Scaling
+
+For (most) machine learning models, scaling is necessary. This sections covers how to do that.
+
+### Machine Learning(!!!)
+
+The part where we actually train a model! We also see how good it is. 
 
 ## Running the Notebooks
 
