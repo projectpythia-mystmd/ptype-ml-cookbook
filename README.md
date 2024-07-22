@@ -14,11 +14,11 @@ This cookbook is meant to be a companion to Unidata's CyberTraining project.
 
 ## Authors
 
-[First Author](@anacmontoya), [Second Author](@ThomasMGeo)
+[Ana Castaneda Montoya](@anacmontoya), [Thomas Martin](@ThomasMGeo)
 
 ### Contributors
 
-<a href="https://github.com/ProjectPythia/cookbook-template/graphs/contributors">
+<a href="https://github.com/ThomasMGeo/ptype-ml-cookbook/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ProjectPythia/cookbook-template" />
 </a>
 
