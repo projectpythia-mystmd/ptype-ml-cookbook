@@ -69,16 +69,12 @@ If you are interested in running this material locally on your computer, you wil
 
 (Replace "cookbook-example" with the title of your cookbooks)
 
-1. Clone the `https://github.com/ProjectPythia/cookbook-example` repository:
+1. Clone the `https://github.com/ThomasMGeo/ptype-ml-cookbook` repository:
 
    ```bash
-    git clone https://github.com/ProjectPythia/cookbook-example.git
+    git clone https://github.com/ThomasMGeo/ptype-ml-cookbook.git
    ```
 
-1. Move into the `cookbook-example` directory
-   ```bash
-   cd cookbook-example
-   ```
 1. Create and activate your conda environment from the `environment.yml` file
    ```bash
    conda env create -f environment.yml
