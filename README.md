@@ -24,7 +24,7 @@ This cookbook is meant to be a companion to Unidata's CyberTraining project.
 
 ## Structure
 
-This notebook has a few sections, from inital data loading to 
+This notebook has a few sections, from inital data loading to a end to end machine learning workflow.
 
 ### Exploratory Data Analysis
 
