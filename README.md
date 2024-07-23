@@ -38,7 +38,7 @@ For machine learning, we need a testing, training, and validation dataset. This 
 
 For (most) machine learning models, scaling is necessary. This sections covers how to do that.
 
-### Machine Learning(!!!)
+### Machine Learning (!!!)
 
 The part where we actually train a model! We also see how good it is. 
 
