@@ -6,4 +6,4 @@ parts:
       - file: notebooks/how-to-cite
   - caption: Introduction
     chapters:
-      - file: notebooks/ptype-ml
+      - file: notebooks/ptype_ml
